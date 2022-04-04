@@ -1,6 +1,10 @@
 # Azkar
 The Citation  Morning and Evening  
 
+## Tools used:
+
+* Flutter framework
+
 ## Screenshotes
 <table>
   <tr>
