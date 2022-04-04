@@ -4,18 +4,9 @@ The Citation  Morning and Evening
 ## Screenshotes
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th> 
-    <th>Country</th>
+  <img src="https://user-images.githubusercontent.com/52568588/158256801-77e3d07e-104b-48ed-982a-ea641b581800.png"  width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/52568588/158256801-77e3d07e-104b-48ed-982a-ea641b581800.png"  width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/52568588/158256801-77e3d07e-104b-48ed-982a-ea641b581800.png"  width="200" height="400" />
   </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td> 
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td> 
-    <td>Mexico</td>
-  </tr>
+ 
 </table>
